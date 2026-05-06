@@ -1,0 +1,2406 @@
+[
+  {
+    "id": "currency",
+    "term": "Currency",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The official monetary unit used by a state or union for transactions. Every country or union uses an official currency — for example, the Euro in the Eurozone, the Dollar in the USA, the Yuan in China, and the Ruble in Russia.",
+    "origin": "According to Aristotle, the word 'currency' (nomisma in Greek) comes from the word 'law' (nomos), because it is not something that comes from nature but a human creation established by law.",
+    "examples": [
+      "The Euro is used across 20 EU member states.",
+      "The US Dollar is the world's primary reserve currency.",
+      "When you travel abroad, you exchange your currency for the local one."
+    ],
+    "related": [
+      "Euro",
+      "Exchange Rate",
+      "Monetary Policy",
+      "Digital Money"
+    ]
+  },
+  {
+    "id": "gdp",
+    "term": "Gross Domestic Product",
+    "abbreviation": "GDP",
+    "category": "Macroeconomics",
+    "definition": "The total value of all goods and services produced within a country's borders over a specific time period, usually a year or a quarter. It serves as a key indicator of economic performance and overall health of a nation.",
+    "origin": "GDP as a concept was developed by economist Simon Kuznets in 1934 for the US Congress, as governments needed a way to measure wartime economic output.",
+    "examples": [
+      "If a country's GDP grows by 3% in a year, it produced 3% more goods and services than the previous year.",
+      "Greece's GDP shrank dramatically during the 2010 debt crisis.",
+      "The US has the world's largest GDP at over $25 trillion."
+    ],
+    "related": [
+      "Growth",
+      "Recession",
+      "Inflation",
+      "Fiscal Policy",
+      "Macroeconomics"
+    ]
+  },
+  {
+    "id": "mutual-funds",
+    "term": "Mutual Funds",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "A pooled investment vehicle where many investors contribute money into a shared fund managed by professionals, who invest it across different assets like bonds and shares to reduce risk.",
+    "origin": "The first modern mutual fund was created in the Netherlands in 1774. They became widespread in the US after the Investment Company Act of 1940.",
+    "examples": [
+      "An investor puts €1,000 into a mutual fund that holds 50 different stocks — if one company fails, the loss is minimal.",
+      "At the end of 2022, over 130,000 different mutual funds existed globally, with total investments surpassing $60 trillion."
+    ],
+    "related": [
+      "Diversification",
+      "Investment",
+      "Shares",
+      "Capital Markets",
+      "Risk"
+    ]
+  },
+  {
+    "id": "data-analytics",
+    "term": "Data Analytics",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "The process of collecting, examining, and interpreting large sets of data to uncover patterns, trends, and insights that guide decision-making, using statistical tools, software, and algorithms.",
+    "origin": "The term emerged in the 1990s alongside the rise of computing power and large databases. The field grew dramatically with the internet era and 'big data' in the 2000s.",
+    "examples": [
+      "A bank uses data analytics to detect fraudulent transactions by spotting unusual spending patterns.",
+      "Netflix uses data analytics to recommend shows based on your viewing history."
+    ],
+    "related": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Digitalization",
+      "Robo-advisors"
+    ]
+  },
+  {
+    "id": "growth",
+    "term": "Growth",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "An increase or expansion in the size, value, or capacity of an economy over time, typically measured as a rise in GDP. It indicates that a country is producing more goods and services than before.",
+    "origin": "Economic growth as a formal concept became central to economics after WWII, when governments began systematically tracking GDP and setting growth targets.",
+    "examples": [
+      "China sustained over 8% annual economic growth for nearly 30 years, lifting hundreds of millions out of poverty.",
+      "A business experiencing growth might hire more employees and open new locations."
+    ],
+    "related": [
+      "GDP",
+      "Recession",
+      "Business Cycles",
+      "Investment",
+      "Inflation"
+    ]
+  },
+  {
+    "id": "disruptions",
+    "term": "Disruptions",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "Unexpected events, innovations, or changes that significantly alter or interrupt normal business processes, markets, or systems — caused by technological breakthroughs, economic crises, pandemics, or geopolitical tensions.",
+    "origin": "The concept of 'disruptive innovation' was coined by Harvard professor Clayton Christensen in his 1997 book 'The Innovator's Dilemma'.",
+    "examples": [
+      "Smartphones disrupted the camera, GPS device, and music player industries overnight.",
+      "COVID-19 disrupted global supply chains, causing product shortages and price increases worldwide."
+    ],
+    "related": [
+      "Industrial Revolution",
+      "Supply Chain",
+      "Digitalization",
+      "Risk"
+    ]
+  },
+  {
+    "id": "compound-interest",
+    "term": "Compound Interest",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Interest calculated on both the initial principal AND the accumulated interest from previous periods, causing money to grow exponentially over time rather than linearly.",
+    "origin": "Compound interest has been used since ancient Mesopotamia. Albert Einstein reportedly called it 'the eighth wonder of the world'.",
+    "examples": [
+      "€1,000 invested at 5% compound interest grows to €1,628 after 10 years — versus €1,500 with simple interest.",
+      "A credit card debt of €1,000 at 20% annual compound interest becomes €1,200 after one year if unpaid."
+    ],
+    "related": [
+      "Interest",
+      "Saving",
+      "Investment",
+      "Time Value of Money",
+      "Dollar-Cost Averaging"
+    ]
+  },
+  {
+    "id": "unemployment",
+    "term": "Unemployment",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "A situation where individuals who are capable and willing to work cannot find suitable job opportunities. Reflects inefficiencies in the labor market and results from economic downturns, automation, or structural changes.",
+    "origin": "The concept became a major policy concern during the Great Depression of the 1930s, when unemployment reached 25% in the US. Modern unemployment statistics were formalized after WWII.",
+    "examples": [
+      "During the Greek financial crisis (2013), unemployment reached nearly 28%.",
+      "When a factory automates its production line, workers may become unemployed unless retrained."
+    ],
+    "related": [
+      "Recession",
+      "GDP",
+      "Fiscal Policy",
+      "Wage",
+      "Demographic Issue"
+    ]
+  },
+  {
+    "id": "unemployed",
+    "term": "Unemployed",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "A person without a paid job who is actively seeking employment and is available to work. Includes those recently laid off, first-time job seekers, or those re-entering the workforce after a break.",
+    "origin": "The official definition of 'unemployed' was standardized by the International Labour Organization (ILO) in the 1980s to create consistent global statistics.",
+    "examples": [
+      "A recent university graduate actively applying for jobs is considered unemployed.",
+      "Someone who stopped looking for work altogether is classified as 'inactive', not unemployed."
+    ],
+    "related": [
+      "Unemployment",
+      "Wage",
+      "Recession",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "roi",
+    "term": "Return on Investment",
+    "abbreviation": "ROI",
+    "category": "Investing",
+    "definition": "A measure of profitability comparing the net gain or loss of an investment to its initial cost. Formula: ROI = (Net Gain / Cost of Investment) × 100%.",
+    "origin": "ROI as a formal metric became widely used in the early 20th century as businesses sought standardized ways to evaluate capital expenditure decisions.",
+    "examples": [
+      "You invest €1,000 in stocks and sell for €1,200 — your ROI is 20%.",
+      "A company spends €10,000 on a marketing campaign that generates €30,000 in sales — ROI is 200%."
+    ],
+    "related": [
+      "Investment",
+      "Net Profit",
+      "Portfolio",
+      "Risk",
+      "Compound Interest"
+    ]
+  },
+  {
+    "id": "saving",
+    "term": "Saving",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The act of setting aside a portion of income for future use instead of spending it immediately. Builds financial security for emergencies, future goals, or investment.",
+    "origin": "Organized saving through banks became widespread in the 19th century with the rise of savings banks in Europe. The personal saving rate became a key economic indicator in the 20th century.",
+    "examples": [
+      "Setting aside 10% of your monthly salary into a savings account.",
+      "A country with a high savings rate (like Germany) has more capital available for investment."
+    ],
+    "related": [
+      "Personal Finance",
+      "Budget",
+      "Emergency Fund",
+      "Compound Interest",
+      "Savings Deposit Rate"
+    ]
+  },
+  {
+    "id": "information-asymmetry",
+    "term": "Information Asymmetry",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "A situation where one party in a transaction has more or better information than the other, often leading to unfair advantages, poor decision-making, or market failures.",
+    "origin": "Formally studied by Akerlof, Spence, and Stiglitz, who won the 2001 Nobel Prize in Economics for their work on markets with asymmetric information.",
+    "examples": [
+      "A used car seller knows about hidden defects the buyer cannot see — Akerlof's famous 'Market for Lemons'.",
+      "A company's executives know far more about its true financial health than ordinary investors."
+    ],
+    "related": [
+      "Insurance",
+      "Credit Rating Agencies",
+      "Financial Literacy",
+      "Market Capitalization"
+    ]
+  },
+  {
+    "id": "insurance",
+    "term": "Insurance",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A financial arrangement providing protection against potential losses or risks in exchange for regular premium payments, based on risk pooling among many contributors.",
+    "origin": "Marine insurance emerged in medieval Italian city-states in the 14th century. The modern insurance industry was shaped by the Great Fire of London (1666), which led to the founding of Lloyd's of London.",
+    "examples": [
+      "Health insurance covers medical bills if you get sick or injured.",
+      "Car insurance pays for repairs after an accident.",
+      "A business insures its warehouse against fire."
+    ],
+    "related": [
+      "Risk",
+      "Information Asymmetry",
+      "Personal Finance",
+      "Emergency Fund"
+    ]
+  },
+  {
+    "id": "atm",
+    "term": "Automated Teller Machine",
+    "abbreviation": "ATM",
+    "category": "Banking & Institutions",
+    "definition": "An electronic device allowing bank customers to perform financial transactions like cash withdrawals, balance checks, and fund transfers without human assistance, available 24/7.",
+    "origin": "The first ATM was installed by Barclays Bank in London on June 27, 1967, credited to inventor John Shepherd-Barron.",
+    "examples": [
+      "Withdrawing €50 cash from an ATM at midnight without visiting a bank branch.",
+      "Checking your account balance or transferring money between accounts via ATM."
+    ],
+    "related": [
+      "Commercial Bank",
+      "Debit Card",
+      "Electronic Funds Transfer",
+      "Digital Wallet"
+    ]
+  },
+  {
+    "id": "industrial-revolution",
+    "term": "Industrial Revolution",
+    "abbreviation": null,
+    "category": "Economic History",
+    "definition": "A series of transformative periods (2nd, 3rd, and 4th) that fundamentally changed how people live, work, and produce goods through mechanization, digitization, and now AI and biotechnology.",
+    "origin": "The Industrial Revolutions began in Great Britain in the 18th century and continued in waves, each driven by a new general-purpose technology — steam, electricity, computers, and now AI.",
+    "examples": [
+      "The 2nd Industrial Revolution (1870s) introduced automobiles and electricity.",
+      "The 3rd (Digital) Revolution brought computers and the internet.",
+      "The 4th Revolution is blurring physical and digital boundaries through AI and robotics."
+    ],
+    "related": [
+      "First Industrial Revolution",
+      "Digitalization",
+      "Artificial Intelligence",
+      "Robotics",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "first-industrial-revolution",
+    "term": "First Industrial Revolution",
+    "abbreviation": null,
+    "category": "Economic History",
+    "definition": "A period of great change beginning in 18th century Great Britain, focused on new technology — particularly the steam engine and textile machines — which transformed economies and created the modern urban middle class.",
+    "origin": "Began in Great Britain around 1760, spreading to Belgium, France, and Germany. Driven by coal, iron, steam power, and the textile industry.",
+    "examples": [
+      "The steam engine replaced horse-drawn transport, enabling trains and faster goods movement.",
+      "Textile factories replaced cottage industries, moving production from homes to factories.",
+      "Urbanization grew rapidly as workers moved from farms to factory towns."
+    ],
+    "related": [
+      "Industrial Revolution",
+      "Growth",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "standard-of-living",
+    "term": "Standard of Living",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The level of material well-being and quality of life a person or society has, determined by income, housing, education, healthcare, safety, and access to basic goods like food, water, and clothing.",
+    "origin": "The term gained prominence in economic literature in the 19th century as economists began comparing living conditions across industrialized countries.",
+    "examples": [
+      "Scandinavian countries consistently rank highest in global standard of living indices.",
+      "A person with access to quality healthcare, education, and a stable income has a high standard of living."
+    ],
+    "related": [
+      "Wellbeing",
+      "GDP",
+      "Disposable Income",
+      "Unemployment",
+      "Demographic Issue"
+    ]
+  },
+  {
+    "id": "demographic-issue",
+    "term": "Demographic Issue",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The challenge arising from an aging population combined with low birth rates, particularly severe in Greece and other Western countries, causing labor shortages, rising healthcare costs, and pension system pressures.",
+    "origin": "Post-WWII baby booms created large generations now entering retirement. In Greece, chronic economic crisis accelerated brain drain of young people, worsening the demographic decline.",
+    "examples": [
+      "In 2021, Greece's permanent population fell to 10.4 million, down from 10.8 million in 2011.",
+      "By 2050, Greece's population could shrink to just 8.3 million if current trends continue.",
+      "Japan is the world's most extreme example, with over 28% of the population aged 65+."
+    ],
+    "related": [
+      "Unemployment",
+      "Standard of Living",
+      "Wellbeing",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "id": "fiscal-policy",
+    "term": "Fiscal Policy",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The government's strategic use of taxation and spending to influence the economy, aiming for stable growth, low unemployment, and controlled inflation. Distinct from monetary policy, which is set by central banks.",
+    "origin": "Keynesian economics, developed by John Maynard Keynes after the Great Depression (1930s), established fiscal policy as a primary tool for managing economic cycles.",
+    "examples": [
+      "During a recession, a government may cut taxes and increase spending to stimulate the economy (expansionary fiscal policy).",
+      "To fight inflation, a government may raise taxes and reduce spending (contractionary fiscal policy)."
+    ],
+    "related": [
+      "Monetary Policy",
+      "GDP",
+      "National Debt",
+      "Inflation",
+      "Primary Budget Surplus or Deficit"
+    ]
+  },
+  {
+    "id": "iot",
+    "term": "Internet of Things",
+    "abbreviation": "IoT",
+    "category": "Digital & Technology",
+    "definition": "A network of physical devices embedded with sensors, software, and connectivity that collect and exchange data, enabling automation and efficiency in homes, healthcare, transportation, and industry.",
+    "origin": "The term 'Internet of Things' was coined by Kevin Ashton of Procter & Gamble in 1999. It became mainstream with the proliferation of smartphones and cheap wireless sensors after 2010.",
+    "examples": [
+      "A smart thermostat learns your schedule and adjusts temperature automatically.",
+      "A smart fridge tracks its contents and orders groceries when supplies run low.",
+      "Industrial sensors monitor factory equipment in real-time to predict failures."
+    ],
+    "related": [
+      "Digitalization",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cybersecurity",
+      "Metaverse"
+    ]
+  },
+  {
+    "id": "disposable-income",
+    "term": "Disposable Income",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The amount of money an individual or household has left after paying taxes and mandatory deductions — representing the income available for spending and saving.",
+    "origin": "The concept became a standard economic measure in the mid-20th century as governments needed to assess consumers' actual purchasing power after tax.",
+    "examples": [
+      "If you earn €1,000/month and pay €200 in taxes, your disposable income is €800.",
+      "When governments cut income taxes, disposable income rises and consumer spending typically increases."
+    ],
+    "related": [
+      "Personal Income",
+      "Budget",
+      "Saving",
+      "Consumption",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "diversification",
+    "term": "Diversification",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "The principle of spreading investments across different asset classes (shares, bonds, real estate, gold) rather than concentrating in one, to reduce overall investment risk.",
+    "origin": "The mathematical foundation was established by Harry Markowitz in his 1952 paper 'Portfolio Selection', for which he later won the Nobel Prize. Often summarized as 'don't put all your eggs in one basket'.",
+    "examples": [
+      "Instead of investing €10,000 only in one stock, spread it across 10 different companies and sectors.",
+      "Mutual funds provide instant diversification by pooling money across many assets."
+    ],
+    "related": [
+      "Portfolio",
+      "Mutual Funds",
+      "Risk",
+      "Investment",
+      "Asset"
+    ]
+  },
+  {
+    "id": "imf",
+    "term": "International Monetary Fund",
+    "abbreviation": "IMF",
+    "category": "Banking & Institutions",
+    "definition": "An international organization of 190 member states that promotes global economic stability, provides financial assistance to countries in crisis, and offers policy advice and technical assistance.",
+    "origin": "Founded in 1944 at the Bretton Woods Conference, in response to the financial chaos of the Great Depression and WWII. It began operations in 1945.",
+    "examples": [
+      "The IMF provided emergency loans to Greece during the 2010 debt crisis.",
+      "During the Asian financial crisis (1997), the IMF provided bailouts to Thailand, Indonesia, and South Korea."
+    ],
+    "related": [
+      "European Central Bank",
+      "National Debt",
+      "Fiscal Policy",
+      "Monetary Policy",
+      "Federal Reserve"
+    ]
+  },
+  {
+    "id": "national-debt",
+    "term": "National Debt",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The total amount of money a government owes to its creditors, accumulated over time when government spending exceeds tax revenues. Includes both domestic and foreign debt.",
+    "origin": "National debt as a formal concept emerged with the founding of the Bank of England in 1694, which first issued government bonds to fund war. The US national debt began in 1790.",
+    "examples": [
+      "Greece's national debt reached over 180% of GDP during its debt crisis.",
+      "The US national debt exceeded $33 trillion in 2023.",
+      "Governments issue bonds to borrow money from investors to cover their deficits."
+    ],
+    "related": [
+      "Fiscal Policy",
+      "Primary Budget Surplus or Deficit",
+      "Debt",
+      "Debt Instruments"
+    ]
+  },
+  {
+    "id": "imports",
+    "term": "Imports",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "Goods and services brought into a country from abroad for domestic consumption or use. Managed through tariffs, quotas, and trade agreements.",
+    "origin": "International trade, including imports, has existed since ancient civilizations. Modern import regulation began in the 17th-18th centuries with mercantilist policies.",
+    "examples": [
+      "Greece imports oil and gas since it has limited domestic energy production.",
+      "A country that imports more than it exports runs a trade deficit.",
+      "Import tariffs make foreign goods more expensive to protect domestic producers."
+    ],
+    "related": [
+      "Exports",
+      "Trade Deficit",
+      "Exchange Rate",
+      "Supply Chain",
+      "Macroeconomics"
+    ]
+  },
+  {
+    "id": "personal-income",
+    "term": "Personal Income",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Money earned by an individual, primarily from employment, but also from bank deposit interest, rental income, and stock dividends.",
+    "origin": "Personal income as a statistical measure was formalized in the US by the Bureau of Economic Analysis in the 1930s, as part of national income accounting.",
+    "examples": [
+      "A teacher earning €1,200/month salary has personal income of €1,200.",
+      "Renting out an apartment adds rental income on top of your salary.",
+      "Dividends from shares you own count as personal income."
+    ],
+    "related": [
+      "Disposable Income",
+      "Wage",
+      "Dividends",
+      "Personal Finance",
+      "Saving"
+    ]
+  },
+  {
+    "id": "exponential-knowledge-growth",
+    "term": "Exponential Knowledge Growth",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "The phenomenon where the amount of knowledge doesn't increase steadily but multiplies faster and faster over time — each discovery enabling further discoveries at an accelerating pace.",
+    "origin": "Buckminster Fuller proposed the 'Knowledge Doubling Curve' in 1982, suggesting human knowledge doubled every century until 1900, then every 25 years, and now potentially every 12 hours with the internet.",
+    "examples": [
+      "Scientific publications double approximately every 9 years.",
+      "Computing power has followed Moore's Law, roughly doubling every two years."
+    ],
+    "related": [
+      "Data Analytics",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Digitalization"
+    ]
+  },
+  {
+    "id": "commercial-bank",
+    "term": "Commercial Bank",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "A financial institution that accepts deposits, issues loans, and facilitates payments, acting as an intermediary between savers and borrowers to circulate money in the economy.",
+    "origin": "The first modern commercial banks emerged in northern Italy during the Renaissance (13th-15th centuries). The Medici Bank (1397) is one of the most famous early examples.",
+    "examples": [
+      "Alpha Bank, Eurobank, and National Bank of Greece are commercial banks.",
+      "You deposit your salary in a commercial bank, which then lends it to a business owner who needs capital."
+    ],
+    "related": [
+      "ATM",
+      "Debit Card",
+      "Credit Card",
+      "Lending Rates",
+      "Savings Deposit Rate",
+      "Bank of Greece"
+    ]
+  },
+  {
+    "id": "trade-deficit",
+    "term": "Trade Deficit",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "When a country's imports exceed its exports — it buys more from other nations than it sells. Can lead to borrowing from foreign sources, currency weakening, and increased national debt.",
+    "origin": "Trade imbalances have been studied since mercantilist economists in the 16th-17th centuries. The term became common in economic discourse in the 20th century.",
+    "examples": [
+      "Greece has historically run a trade deficit, importing more energy, goods, and technology than it exports.",
+      "The US has run a trade deficit every year since 1975.",
+      "A persistent trade deficit can weaken a country's currency."
+    ],
+    "related": [
+      "Imports",
+      "Exports",
+      "Exchange Rate",
+      "National Debt",
+      "GDP"
+    ]
+  },
+  {
+    "id": "exports",
+    "term": "Exports",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "Goods and services produced within a country and sold to foreign markets, generating income, creating jobs, and strengthening the national economy.",
+    "origin": "Export-led growth became a cornerstone of economic policy after WWII, especially for Asian economies like Japan and South Korea that rebuilt through manufacturing exports.",
+    "examples": [
+      "Greece exports olive oil, tourism services, and shipping.",
+      "Germany's strong car and machinery exports make it one of the world's top export nations."
+    ],
+    "related": [
+      "Imports",
+      "Trade Deficit",
+      "Exchange Rate",
+      "GDP",
+      "Supply Chain"
+    ]
+  },
+  {
+    "id": "total-family-expenses",
+    "term": "Total Family Expenses",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The sum of all expenditures made by a household over a specific period, including food, housing, transportation, healthcare, and leisure.",
+    "origin": "Household expenditure surveys began in the 19th century with Ernst Engel's studies of Belgian worker families (1857), leading to 'Engel's Law' about food spending.",
+    "examples": [
+      "A family's monthly expenses: €600 rent + €300 food + €150 transport + €100 utilities = €1,150 total.",
+      "Tracking family expenses helps identify where to cut spending and increase savings."
+    ],
+    "related": [
+      "Budget",
+      "Total Family Revenue",
+      "Disposable Income",
+      "Personal Finance",
+      "Saving"
+    ]
+  },
+  {
+    "id": "investment",
+    "term": "Investment",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "The allocation of money or resources into assets, businesses, or projects with the expectation of earning future returns. Essential for economic growth as it funds innovation, infrastructure, and production.",
+    "origin": "Investment as an economic concept was central to Adam Smith's 'Wealth of Nations' (1776) and later formalized by classical and Keynesian economists throughout the 19th and 20th centuries.",
+    "examples": [
+      "Buying shares in a company is an investment.",
+      "A government investing in roads and schools builds infrastructure that supports future economic growth.",
+      "Education is a personal investment in your own productivity."
+    ],
+    "related": [
+      "ROI",
+      "Risk",
+      "Capital Markets",
+      "Portfolio",
+      "Venture Capital"
+    ]
+  },
+  {
+    "id": "investment-banking",
+    "term": "Investment Banking",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "A specialized branch of banking that helps companies, governments, and institutions raise capital through securities, and provides advisory services for mergers, acquisitions, and restructuring.",
+    "origin": "Modern investment banking emerged in the US in the 19th century to finance railroad construction. J.P. Morgan became the archetype of the investment banker in the early 1900s.",
+    "examples": [
+      "Goldman Sachs helped Google raise capital through its 2004 IPO.",
+      "An investment bank advises a company planning to merge with a competitor."
+    ],
+    "related": [
+      "Capital Markets",
+      "Commercial Bank",
+      "Shares",
+      "Debt Instruments",
+      "Stock Market"
+    ]
+  },
+  {
+    "id": "savings-deposit-rate",
+    "term": "Savings Deposit Rate",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The interest rate offered by banks to customers who keep money in savings accounts, incentivizing saving by rewarding depositors with periodic interest earnings.",
+    "origin": "Savings deposit rates became standardized with the formalization of banking systems in the 19th century. Central banks began directly influencing these rates through monetary policy in the 20th century.",
+    "examples": [
+      "A bank offers a 2% annual savings deposit rate — €1,000 saved earns €20 in interest after one year.",
+      "When the ECB raises interest rates, savings deposit rates typically increase too."
+    ],
+    "related": [
+      "Lending Rates",
+      "Interest",
+      "Saving",
+      "Monetary Policy",
+      "Commercial Bank"
+    ]
+  },
+  {
+    "id": "lending-rates",
+    "term": "Lending Rates",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The interest rates charged by financial institutions on loans. Determine the cost of borrowing and influence spending, investment, and economic activity. Low rates encourage borrowing; high rates help control inflation.",
+    "origin": "Interest on loans has existed since ancient Mesopotamia (~2000 BC). Modern central bank influence over lending rates began with the Bank of England in the late 17th century.",
+    "examples": [
+      "A €100,000 mortgage at 4% annual lending rate means €4,000 in interest the first year.",
+      "Low lending rates after 2008 encouraged borrowing and helped economies recover from the financial crisis."
+    ],
+    "related": [
+      "Interest",
+      "Savings Deposit Rate",
+      "Monetary Policy",
+      "Mortgage",
+      "Commercial Bank"
+    ]
+  },
+  {
+    "id": "capital-market-commission",
+    "term": "Capital Market Commission",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "A government regulatory body that supervises capital markets, ensuring transparency, fairness, and investor protection in the trading of stocks, bonds, and other securities.",
+    "origin": "The US Securities and Exchange Commission (SEC), founded in 1934 after the 1929 crash, became the model for capital market regulators worldwide. Greece's Hellenic Capital Market Commission was established in 1991.",
+    "examples": [
+      "The Capital Market Commission investigates insider trading allegations.",
+      "It requires companies to publicly disclose their financial statements.",
+      "It can fine or ban firms that manipulate stock prices."
+    ],
+    "related": [
+      "Stock Market",
+      "Shares",
+      "Debt Instruments",
+      "Financial Literacy",
+      "Investment Banking"
+    ]
+  },
+  {
+    "id": "entrepreneur",
+    "term": "Entrepreneur",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "An individual who creates, organizes, and manages a business venture, taking on financial risks in the hope of profit, driven by innovation, creativity, leadership, and adaptability.",
+    "origin": "The term comes from French 'entreprendre' (to undertake). Joseph Schumpeter called entrepreneurs agents of 'creative destruction' — the driving force of economic progress.",
+    "examples": [
+      "Elon Musk founded SpaceX, Tesla, and other ventures, taking significant personal financial risk.",
+      "A teenager who starts a small online shop is acting as an entrepreneur."
+    ],
+    "related": [
+      "Business Plan",
+      "Venture Capital",
+      "Risk",
+      "Investment",
+      "Business Cycles"
+    ]
+  },
+  {
+    "id": "business-plan",
+    "term": "Business Plan",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "A detailed document outlining a company's direction, strategies, target market, operations, and financial outlook. Acts as both a roadmap for entrepreneurs and a tool for attracting investors.",
+    "origin": "Formal business plans became standard practice in the mid-20th century, largely driven by the rise of venture capital in the US in the 1950s-60s, which required structured proposals from startups.",
+    "examples": [
+      "A startup writes a business plan showing 5-year projected revenues to attract venture capital.",
+      "A business plan includes: market analysis, competitive landscape, revenue model, and financial forecasts."
+    ],
+    "related": [
+      "Entrepreneur",
+      "Venture Capital",
+      "Investment",
+      "Business Cycles"
+    ]
+  },
+  {
+    "id": "business-cycles",
+    "term": "Business Cycles",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "Recurring phases of economic expansion and contraction — including growth, peak, recession, and recovery — that affect employment, production, and prices throughout the economy.",
+    "origin": "Business cycles were first systematically studied by Clement Juglar (1860) and later by Joseph Schumpeter. The NBER in the US has officially dated business cycles since 1920.",
+    "examples": [
+      "The 2008 financial crisis marked a peak, followed by a severe recession and slow recovery.",
+      "During expansions, unemployment falls; during recessions, it rises.",
+      "Most advanced economies experience a full cycle every 7-11 years on average."
+    ],
+    "related": [
+      "GDP",
+      "Recession",
+      "Growth",
+      "Fiscal Policy",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "id": "total-family-revenue",
+    "term": "Total Family Revenue",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The total income earned by all members of a household from all sources, including salaries, rental income, deposit interest, dividends, business profits, and government benefits.",
+    "origin": "Household income surveys became standard economic data after WWII, when governments needed to understand consumer purchasing power and inequality.",
+    "examples": [
+      "Both parents work: €1,500 + €1,200 salary + €100 rental income = €2,800 total family revenue.",
+      "Unemployment benefits and child support payments also count toward total family revenue."
+    ],
+    "related": [
+      "Total Family Expenses",
+      "Disposable Income",
+      "Personal Income",
+      "Budget"
+    ]
+  },
+  {
+    "id": "wellbeing",
+    "term": "Wellbeing",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The overall state of being comfortable, healthy, and happy — encompassing physical, mental, emotional, economic, and social aspects of life. Not just the absence of illness but the presence of life satisfaction and purpose.",
+    "origin": "Economic wellbeing became a policy focus after Bhutan introduced Gross National Happiness (GNH) in 1972 as an alternative to GDP. The OECD launched its Better Life Index in 2011.",
+    "examples": [
+      "A country can have high GDP but low wellbeing if wealth is very unequally distributed.",
+      "Mental health, job security, and social connections all contribute to individual wellbeing.",
+      "Nordic countries consistently top global wellbeing indices."
+    ],
+    "related": [
+      "Standard of Living",
+      "GDP",
+      "Unemployment",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "id": "euro",
+    "term": "Euro",
+    "abbreviation": "EUR",
+    "category": "Banking & Institutions",
+    "definition": "The official currency of the Eurozone, introduced as electronic currency in 1999 and as physical coins and banknotes on January 1, 2002. Managed by the European Central Bank and used by 20 EU member states.",
+    "origin": "The euro was created as part of European economic and monetary union. Coins have two sides: a common European side showing denomination, and a national side unique to each issuing country.",
+    "examples": [
+      "Greece adopted the euro on January 1, 2001, replacing the drachma at 340.75 drachmas per euro.",
+      "The ECB sets monetary policy for all 20 eurozone countries.",
+      "Euro coins show a country-specific image on the national side."
+    ],
+    "related": [
+      "European Central Bank",
+      "Eurozone",
+      "Currency",
+      "Monetary Policy",
+      "Exchange Rate"
+    ]
+  },
+  {
+    "id": "european-union",
+    "term": "European Union",
+    "abbreviation": "EU",
+    "category": "Banking & Institutions",
+    "definition": "An economic and political union of 27 European countries with approximately 450 million residents and a combined GDP of €17.9 trillion — about one sixth of global economic output.",
+    "origin": "Formally founded on November 1, 1993, in Maastricht, Netherlands, initially with 12 member states. Its roots trace back to the European Economic Community (1957) established by the Treaty of Rome.",
+    "examples": [
+      "The EU single market allows goods, services, capital, and people to move freely across member states.",
+      "The EU collectively negotiates trade deals as a bloc, giving it more leverage than individual countries."
+    ],
+    "related": [
+      "European Central Bank",
+      "Euro",
+      "Eurozone",
+      "Fiscal Policy",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "id": "ecb",
+    "term": "European Central Bank",
+    "abbreviation": "ECB",
+    "category": "Banking & Institutions",
+    "definition": "The central bank of the 20 eurozone countries, established in 1998 and headquartered in Frankfurt. Its main goal is price stability — keeping inflation low — and it supervises major eurozone banks.",
+    "origin": "The ECB was established on June 1, 1998, as part of the transition to the euro. It replaced the European Monetary Institute and took over monetary policy from national central banks.",
+    "examples": [
+      "The ECB raised interest rates sharply in 2022-2023 to combat the highest inflation in decades.",
+      "During the 2020 COVID crisis, the ECB launched a €1.85 trillion bond-buying program.",
+      "The ECB sets the interest rates that affect mortgages and savings across all eurozone countries."
+    ],
+    "related": [
+      "Monetary Policy",
+      "Euro",
+      "Eurozone",
+      "Bank of Greece",
+      "Federal Reserve",
+      "IMF"
+    ]
+  },
+  {
+    "id": "supply-chain",
+    "term": "Supply Chain",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "The complete network of people, organizations, and activities involved in creating a product and delivering it to the final customer — from raw material extraction through manufacturing to retail.",
+    "origin": "The term 'supply chain management' was coined by consultant Keith Oliver in 1982. The concept became critical awareness during COVID-19 disruptions in 2020-2021.",
+    "examples": [
+      "A smartphone supply chain: raw material mining → component manufacturing → assembly → shipping → retail.",
+      "COVID-19 exposed fragile global supply chains, causing shortages of cars, electronics, and medical supplies."
+    ],
+    "related": [
+      "Disruptions",
+      "Imports",
+      "Exports",
+      "Trade Deficit",
+      "Demand"
+    ]
+  },
+  {
+    "id": "demand",
+    "term": "Demand",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "A consumer's willingness and ability to buy a good or service at a given price. Generally, demand increases when prices fall and decreases when prices rise (the law of demand).",
+    "origin": "The formal law of demand was articulated by Alfred Marshall in his 'Principles of Economics' (1890), which introduced the now-standard supply and demand diagram.",
+    "examples": [
+      "When the price of olive oil drops, more people buy it — demand increases.",
+      "During a recession, demand for luxury goods falls sharply.",
+      "Aggregate demand is all spending in an economy: consumer + business + government + net exports."
+    ],
+    "related": [
+      "Supply",
+      "Inflation",
+      "Consumption",
+      "GDP",
+      "Microeconomics"
+    ]
+  },
+  {
+    "id": "eurozone",
+    "term": "Eurozone",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The group of 20 EU member states that use the euro as their official currency. Greece joined on January 1, 2001, at 340.75 drachmas per euro. Croatia is the most recent member, joining in 2023.",
+    "origin": "The eurozone officially came into existence on January 1, 1999, with 11 founding members. Physical euro coins and notes were introduced in January 2002.",
+    "examples": [
+      "About 343 million people live in the eurozone.",
+      "Countries in the eurozone cannot independently set their own monetary policy — the ECB does it for all.",
+      "The UK never joined the eurozone, keeping the pound."
+    ],
+    "related": [
+      "Euro",
+      "European Central Bank",
+      "European Union",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "id": "eft",
+    "term": "Electronic Funds Transfer",
+    "abbreviation": "EFT",
+    "category": "Banking & Institutions",
+    "definition": "A financial transaction processed automatically through an electronic payment system with no physical money changing hands, enabling fast, secure money transfers locally or internationally.",
+    "origin": "EFTs became possible with the development of electronic banking networks in the 1960s-70s. The US passed the Electronic Fund Transfer Act in 1978 to protect consumers.",
+    "examples": [
+      "Paying your electricity bill via online banking is an EFT.",
+      "Bank wire transfers and card payments at a shop are both types of EFT.",
+      "SWIFT handles international EFTs between banks globally."
+    ],
+    "related": [
+      "ATM",
+      "Debit Card",
+      "Credit Card",
+      "Digital Wallet",
+      "Digital Money"
+    ]
+  },
+  {
+    "id": "net-profit",
+    "term": "Net Profit",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "The amount of money a business has left after subtracting ALL expenses (operating costs, taxes, interest, salaries, rent, materials) from total revenue. The true 'bottom line' of a company.",
+    "origin": "Net profit as an accounting concept developed alongside double-entry bookkeeping in Renaissance Italy. The term 'bottom line' comes from it literally being the final line in an income statement.",
+    "examples": [
+      "A company earns €500,000 in revenue but has €420,000 in expenses — net profit is €80,000.",
+      "Negative net profit means the company is losing money.",
+      "Net profit is what can be reinvested or paid out as dividends to shareholders."
+    ],
+    "related": [
+      "Net Wealth",
+      "ROI",
+      "Dividends",
+      "Investment"
+    ]
+  },
+  {
+    "id": "net-wealth",
+    "term": "Net Wealth",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The total value of everything you own (assets) minus everything you owe (debts). Formula: Net Wealth = Assets − Liabilities. Reveals the true financial position of a person, company, or nation.",
+    "origin": "Net worth as a personal finance concept was popularized in the 20th century by financial advisors. The formula is foundational to balance sheet accounting.",
+    "examples": [
+      "A person owns a €200,000 house and has €20,000 savings, but owes €150,000 on the mortgage → Net wealth = €70,000.",
+      "A business with €70,000 in assets and €35,000 in debts has a net wealth of €35,000."
+    ],
+    "related": [
+      "Asset",
+      "Debt",
+      "Liability",
+      "Portfolio",
+      "Investment"
+    ]
+  },
+  {
+    "id": "money-deposit",
+    "term": "Money Deposit",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "Money placed in a bank account for safekeeping, interest earnings, or future use. Demand deposits allow withdrawals anytime; time deposits lock money for a fixed period in exchange for higher interest.",
+    "origin": "Bank deposits trace back to ancient Greek and Roman temples, which stored valuables for citizens. Modern deposit banking formalized in the 17th century with the founding of European banks.",
+    "examples": [
+      "Placing €5,000 in a 12-month time deposit earns more interest than a regular savings account.",
+      "Bank deposits in Greece are guaranteed up to €100,000 per person under EU law."
+    ],
+    "related": [
+      "Savings Deposit Rate",
+      "Commercial Bank",
+      "Saving",
+      "Interest",
+      "Emergency Fund"
+    ]
+  },
+  {
+    "id": "consumption",
+    "term": "Consumption",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The spending of money on goods and services by households. The largest component of aggregate demand in most economies. When consumers spend less, it can slow economic growth.",
+    "origin": "Consumption became a central macroeconomic variable with Keynes's 'General Theory' (1936), which showed how consumer spending drives overall economic activity.",
+    "examples": [
+      "Household consumption typically accounts for 60-70% of GDP in developed countries.",
+      "During COVID-19 lockdowns, consumption of services collapsed while goods consumption rose.",
+      "A rise in consumer confidence leads to more spending and economic growth."
+    ],
+    "related": [
+      "Demand",
+      "GDP",
+      "Saving",
+      "Disposable Income",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "id": "venture-capital",
+    "term": "Venture Capital",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Investment funding provided to early-stage, high-potential startup companies in exchange for equity (ownership share), aiming for high long-term returns. Also provides mentorship and technical support.",
+    "origin": "Modern venture capital emerged in the US after WWII. Georges Doriot founded the first VC firm (ARD) in 1946. Silicon Valley became the global VC hub from the 1970s onward.",
+    "examples": [
+      "Google received $100,000 in early venture capital funding in 1998.",
+      "A VC firm invests €2 million in a biotech startup in exchange for 20% ownership.",
+      "Apple, Amazon, and Facebook were all funded by venture capital in their early stages."
+    ],
+    "related": [
+      "Investment",
+      "Entrepreneur",
+      "Business Plan",
+      "Risk",
+      "Capital Markets"
+    ]
+  },
+  {
+    "id": "capital-markets",
+    "term": "Capital Markets",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Markets where companies and governments buy and sell long-term financial instruments like stocks and bonds, giving businesses access to capital and investors access to returns.",
+    "origin": "The Amsterdam Stock Exchange (1602), created for the Dutch East India Company, is considered the world's first modern capital market.",
+    "examples": [
+      "A company lists its shares on the stock market (IPO) to raise capital from public investors.",
+      "Governments issue bonds in capital markets to finance public spending."
+    ],
+    "related": [
+      "Stock Market",
+      "Shares",
+      "Debt Instruments",
+      "Investment Banking",
+      "Capital Market Commission"
+    ]
+  },
+  {
+    "id": "emergency-fund",
+    "term": "Emergency Fund",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Money set aside specifically for unexpected expenses or financial emergencies — medical bills, job loss, or urgent repairs — providing stability without needing loans.",
+    "origin": "The concept was popularized by personal finance experts in the late 20th century. Financial advisors typically recommend saving 3-6 months of living expenses.",
+    "examples": [
+      "Having €3,000 in an emergency fund means a sudden car repair won't send you into debt.",
+      "During COVID-19, people without emergency funds were far more financially vulnerable."
+    ],
+    "related": [
+      "Saving",
+      "Personal Finance",
+      "Budget",
+      "Insurance",
+      "Money Deposit"
+    ]
+  },
+  {
+    "id": "working-capital",
+    "term": "Working Capital",
+    "abbreviation": null,
+    "category": "Business & Entrepreneurship",
+    "definition": "The money a business has available to cover short-term needs and daily operations. Formula: Working Capital = Current Assets − Current Liabilities. Positive means healthy; negative signals financial stress.",
+    "origin": "Working capital management became a formal discipline in the early 20th century as industrial companies needed to manage complex cash flows from production cycles.",
+    "examples": [
+      "A bakery needs working capital to buy flour and pay staff before it sells its products.",
+      "If a company has €50,000 in current assets and €30,000 in short-term debts, working capital is €20,000."
+    ],
+    "related": [
+      "Net Wealth",
+      "Liquidity of Investment",
+      "Business Plan",
+      "Commercial Bank",
+      "Lending Rates"
+    ]
+  },
+  {
+    "id": "risk",
+    "term": "Risk",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "The possibility that the outcome of a decision or investment will differ from what is expected, often unfavorably. Investment risk can be affected by inflation, interest rates, political instability, or market volatility.",
+    "origin": "Modern risk theory developed with probability mathematics in the 17th century. Financial risk management formalized with Markowitz's portfolio theory (1952) and the Black-Scholes options model (1973).",
+    "examples": [
+      "Stocks carry higher risk than government bonds but also offer higher potential returns.",
+      "Political instability in a country makes investing there riskier.",
+      "Diversification reduces risk by not concentrating all investments in one place."
+    ],
+    "related": [
+      "Diversification",
+      "Portfolio",
+      "Insurance",
+      "Venture Capital",
+      "Investment"
+    ]
+  },
+  {
+    "id": "climate-change",
+    "term": "Climate Change",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The long-term shift in global temperatures and weather patterns, largely driven by human activities releasing greenhouse gases that trap heat in the atmosphere. Causes economic disruption through extreme weather and resource scarcity.",
+    "origin": "The scientific basis was established by Svante Arrhenius in 1896. The UN Framework Convention on Climate Change (1992) and Paris Agreement (2015) are key international responses.",
+    "examples": [
+      "Rising sea levels threaten coastal cities and island nations.",
+      "Extreme weather events disrupt agriculture and increase insurance costs.",
+      "The EU's Green Deal aims to make Europe carbon-neutral by 2050."
+    ],
+    "related": [
+      "ESG",
+      "Overconsumption",
+      "Environmental Rights Defence",
+      "Disruptions"
+    ]
+  },
+  {
+    "id": "joint-bank-account",
+    "term": "Joint Bank Account",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "A bank account shared by two or more people who have equal or specified rights over the funds. Useful for families sharing expenses, business partners, or parents managing money with children.",
+    "origin": "Joint accounts developed alongside modern banking in the 19th century. Their legal framework was formalized in the 20th century as two-income households became more common.",
+    "examples": [
+      "A married couple shares a joint account to pay household bills.",
+      "Parents open a joint account with their child, with the child gaining full access at 18."
+    ],
+    "related": [
+      "Money Deposit",
+      "Commercial Bank",
+      "Personal Finance",
+      "Budget"
+    ]
+  },
+  {
+    "id": "esg",
+    "term": "Environmental, Social, and Governance",
+    "abbreviation": "ESG",
+    "category": "Investing",
+    "definition": "A framework for evaluating companies based on their environmental impact, social responsibility, and governance practices. Used by investors to align financial choices with ethical values.",
+    "origin": "The term 'ESG' was coined in a 2004 UN report 'Who Cares Wins'. ESG investing grew dramatically after the 2015 Paris Agreement and now represents trillions in managed assets globally.",
+    "examples": [
+      "An ESG fund excludes companies with poor environmental records from its portfolio.",
+      "Critics argue some companies engage in 'greenwashing' — appearing ESG-compliant without real change."
+    ],
+    "related": [
+      "Climate Change",
+      "Overconsumption",
+      "Portfolio",
+      "Investing",
+      "Risk"
+    ]
+  },
+  {
+    "id": "cryptocurrency",
+    "term": "Cryptocurrency",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "A type of digital currency that exists only in digital form, using cryptography for security. Not issued by any central authority and not recognized as legal tender by central banks — classified as digital assets.",
+    "origin": "The concept was made possible by blockchain technology, first implemented by Bitcoin in 2009. The term combines 'cryptography' and 'currency'.",
+    "examples": [
+      "Bitcoin is the largest cryptocurrency by market value.",
+      "There are over 20,000 types of cryptocurrencies, including Ethereum (ETH)."
+    ],
+    "related": [
+      "Bitcoin",
+      "Digital Assets",
+      "Digital Wallet",
+      "Digital Money"
+    ]
+  },
+  {
+    "id": "bitcoin",
+    "term": "Bitcoin",
+    "abbreviation": "BTC",
+    "category": "Digital & Technology",
+    "definition": "The oldest, most well-known, and most valuable cryptocurrency. Created in 2009 by the pseudonymous 'Satoshi Nakamoto'. Uses a decentralized blockchain ledger and has a fixed supply of 21 million coins.",
+    "origin": "Bitcoin was launched on January 3, 2009, with the mining of the 'genesis block'. Its creator(s), known only as Satoshi Nakamoto, published the founding whitepaper in October 2008.",
+    "examples": [
+      "As of 2024, about 19.5 million of the 21 million maximum bitcoins have been mined.",
+      "In 2010, a programmer paid 10,000 bitcoins for two pizzas — today worth hundreds of millions.",
+      "Bitcoin's price fluctuates dramatically based on investor sentiment and regulatory news."
+    ],
+    "related": [
+      "Cryptocurrency",
+      "Digital Assets",
+      "Digital Money",
+      "Digital Wallet"
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "term": "Cybersecurity",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "The practice of protecting computer systems, networks, and digital devices from unauthorized access, theft, or damage. Includes strong passwords, software updates, and awareness of phishing attacks.",
+    "origin": "Cybersecurity as a field emerged in the 1970s-80s with early computer networks. Major incidents (Yahoo breach, WannaCry ransomware) drove its importance into mainstream awareness.",
+    "examples": [
+      "A company installs firewalls and encrypts customer data to prevent hackers from stealing it.",
+      "Phishing emails trick users into revealing passwords by pretending to be legitimate organizations.",
+      "Two-factor authentication adds a second security layer beyond just a password."
+    ],
+    "related": [
+      "Cryptocurrency",
+      "Digital Assets",
+      "IoT",
+      "Digitalization",
+      "Digital Wallet"
+    ]
+  },
+  {
+    "id": "macroeconomics",
+    "term": "Macroeconomics",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The branch of economics that studies the economy as a whole — examining GDP, inflation, unemployment, national income, fiscal and monetary policy, and how different sectors interact at local and global level.",
+    "origin": "Macroeconomics emerged as a distinct field with John Maynard Keynes's 'General Theory' (1936), which argued that total economic output is determined by aggregate demand.",
+    "examples": [
+      "A macroeconomist studies why unemployment rose during a recession.",
+      "Macroeconomic policy includes raising interest rates to fight inflation."
+    ],
+    "related": [
+      "Microeconomics",
+      "GDP",
+      "Fiscal Policy",
+      "Monetary Policy",
+      "Inflation"
+    ]
+  },
+  {
+    "id": "long-term-loans",
+    "term": "Long-term Loans",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "Loans with repayment periods longer than one year, often 3 to 30 years, used for major investments like property, equipment, or education. Feature lower monthly payments but higher total interest costs.",
+    "origin": "Long-term lending developed with the growth of mortgage banking in the 19th century. The 30-year fixed mortgage was standardized in the US by the Federal Housing Administration in the 1930s.",
+    "examples": [
+      "A 25-year mortgage is a long-term loan secured against a property.",
+      "A business takes a 10-year loan to buy expensive machinery."
+    ],
+    "related": [
+      "Mortgage",
+      "Lending Rates",
+      "Interest",
+      "Commercial Bank",
+      "Debt"
+    ]
+  },
+  {
+    "id": "dividends",
+    "term": "Dividends",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Payments made by a profitable company to its shareholders, distributing a portion of annual profits as a reward for owning shares.",
+    "origin": "Dividends trace back to the Dutch East India Company (1602), which paid the first recorded stock dividends. The practice became standardized with the rise of joint-stock companies in the 18th-19th centuries.",
+    "examples": [
+      "A company earns €1 million profit and pays €0.50 per share as a dividend to shareholders.",
+      "Dividend-paying stocks are popular with retirees seeking steady income.",
+      "Some companies reinvest all profits instead of paying dividends (e.g. early Amazon)."
+    ],
+    "related": [
+      "Shares",
+      "Net Profit",
+      "Personal Income",
+      "Stock Market",
+      "Investment"
+    ]
+  },
+  {
+    "id": "metaverse",
+    "term": "Metaverse",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "A virtual world where users can interact with other people and digital objects through virtual reality (VR) and augmented reality (AR), blending physical and digital existence.",
+    "origin": "The term was coined by author Neal Stephenson in his 1992 sci-fi novel 'Snow Crash'. It entered mainstream business discourse when Facebook rebranded as Meta in 2021.",
+    "examples": [
+      "Companies like Meta (Facebook) and Roblox are building metaverse platforms.",
+      "In the metaverse, users can attend virtual concerts or buy virtual real estate.",
+      "VR headsets like Meta Quest enable immersive metaverse experiences."
+    ],
+    "related": [
+      "Digital Assets",
+      "Cryptocurrency",
+      "Digitalization",
+      "Machine Learning",
+      "IoT"
+    ]
+  },
+  {
+    "id": "share",
+    "term": "Share",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "A unit of ownership in a company. Buying shares makes you a part-owner (shareholder) of that company, entitling you to a portion of profits (dividends) and voting rights on company decisions.",
+    "origin": "The first shares were issued by the Dutch East India Company in 1602, creating the world's first modern stock exchange and enabling large-scale capital pooling for risky ventures.",
+    "examples": [
+      "If a company has 1 million shares and you own 1,000, you own 0.1% of the company.",
+      "Common shares give voting rights; preferred shares have priority for dividends but fewer voting rights.",
+      "Share prices rise when investors expect the company to become more profitable."
+    ],
+    "related": [
+      "Dividends",
+      "Stock Market",
+      "Portfolio",
+      "Capital Markets",
+      "Market Capitalization"
+    ]
+  },
+  {
+    "id": "machine-learning",
+    "term": "Machine Learning",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "A field of artificial intelligence where statistical algorithms learn from data to make predictions or decisions without being explicitly programmed for each task.",
+    "origin": "The term was coined by Arthur Samuel at IBM in 1959. The modern deep learning revolution began in 2012 when AlexNet dramatically outperformed competitors in image recognition.",
+    "examples": [
+      "Email spam filters use machine learning to identify unwanted emails.",
+      "Banks use ML to detect fraudulent transactions in real time.",
+      "Recommendation algorithms on Netflix and Spotify use machine learning."
+    ],
+    "related": [
+      "Artificial Intelligence",
+      "Data Analytics",
+      "Robo-advisors",
+      "Digitalization"
+    ]
+  },
+  {
+    "id": "microeconomics",
+    "term": "Microeconomics",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The study of individual economic behavior and decision-making — how people and businesses make choices about resources, pricing, and market competition. Examines supply, demand, pricing, and types of competition.",
+    "origin": "Microeconomics as a formal field developed through Alfred Marshall's 'Principles of Economics' (1890) and the marginal revolution of the 1870s.",
+    "examples": [
+      "Why does a coffee shop charge €3 for a cappuccino? Microeconomics explains through supply, demand, and competition.",
+      "A consumer choosing between two products is making a microeconomic decision."
+    ],
+    "related": [
+      "Macroeconomics",
+      "Demand",
+      "Supply",
+      "Inflation",
+      "Economics"
+    ]
+  },
+  {
+    "id": "wage",
+    "term": "Wage",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Any form of financial compensation given to employees for their work, including basic salary, bonuses, subsidies, and holiday pay. Affected by country, job type, required skills, and market demand.",
+    "origin": "Wage labor as a dominant economic institution emerged during the Industrial Revolution. The concept of a 'minimum wage' was first established in New Zealand in 1894.",
+    "examples": [
+      "A minimum wage ensures workers earn at least a basic amount per hour.",
+      "Multinational companies often provide benefits beyond wages: insurance, company car, retirement plans.",
+      "A software engineer's wage is higher than average due to high demand and required skills."
+    ],
+    "related": [
+      "Personal Income",
+      "Unemployment",
+      "Disposable Income",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "monetary-policy",
+    "term": "Monetary Policy",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The process by which central banks control the money supply and interest rates to regulate inflation, stabilize the currency, and maintain economic stability.",
+    "origin": "Modern monetary policy developed with the establishment of central banks, starting with the Bank of England (1694). The gold standard governed money supply until Bretton Woods collapsed in 1971.",
+    "examples": [
+      "The ECB raised interest rates in 2022-2023 to control inflation caused by energy price spikes.",
+      "The US Federal Reserve cut rates to near zero after the 2008 financial crisis to stimulate the economy."
+    ],
+    "related": [
+      "Fiscal Policy",
+      "Inflation",
+      "Interest",
+      "European Central Bank",
+      "Federal Reserve"
+    ]
+  },
+  {
+    "id": "credit-rating-agencies",
+    "term": "Credit Rating Agencies",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "Private firms (like S&P, Moody's, Fitch) that assess how likely companies, governments, or institutions are to meet their financial commitments. Ratings from AAA (highest) to D (default) guide investors and lenders.",
+    "origin": "The industry started with John Moody's 1909 analysis of railroad bonds. The three major agencies (S&P 1860, Moody's 1909, Fitch 1913) now dominate global ratings.",
+    "examples": [
+      "Greece's credit rating was downgraded to junk status during the 2010 debt crisis, making borrowing vastly more expensive.",
+      "A company rated AAA can borrow at very low interest rates; a B-rated company pays much more."
+    ],
+    "related": [
+      "National Debt",
+      "Debt Instruments",
+      "Investment Banking",
+      "Risk"
+    ]
+  },
+  {
+    "id": "economics",
+    "term": "Economics",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The scientific discipline that studies how people, businesses, and governments make decisions to allocate scarce resources in a world characterized by unlimited wants and limited means.",
+    "origin": "Economics as a formal science began with Adam Smith's 'The Wealth of Nations' (1776), though economic thought traces back to ancient Greek philosophers including Aristotle.",
+    "examples": [
+      "A government must decide whether to spend limited funds on healthcare or education — that's an economic choice.",
+      "Why do some countries prosper while others remain poor? Economics seeks to answer this."
+    ],
+    "related": [
+      "Macroeconomics",
+      "Microeconomics",
+      "Fiscal Policy",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "id": "federal-reserve",
+    "term": "Federal Reserve",
+    "abbreviation": "Fed",
+    "category": "Banking & Institutions",
+    "definition": "The central bank of the United States, responsible for monetary policy including interest rate decisions, money supply control, bank regulation, and financial stability. Consists of 12 regional banks and a Board of Governors.",
+    "origin": "Founded in 1913 via the Federal Reserve Act, as a response to banking panics, most notably the Panic of 1907. Members of the Board are nominated by the US President and confirmed by the Senate.",
+    "examples": [
+      "The Fed cut interest rates to near zero in 2008 and again in 2020 to fight economic crises.",
+      "The Fed's dual mandate is to maximize employment AND maintain stable prices (low inflation)."
+    ],
+    "related": [
+      "Monetary Policy",
+      "European Central Bank",
+      "IMF",
+      "Inflation",
+      "Interest"
+    ]
+  },
+  {
+    "id": "impulse-buying",
+    "term": "Impulse Buying",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "An unplanned decision to purchase a product or service made just before buying, driven by emotions rather than rational need. Heavily influenced by marketing, product placement, and promotions.",
+    "origin": "Impulse buying was first formally studied in 1950s retail research. The rise of supermarkets and later e-commerce dramatically expanded the contexts where impulse purchases occur.",
+    "examples": [
+      "Adding a chocolate bar to your basket at the supermarket checkout that you didn't plan to buy.",
+      "Online flash sales and 'limited time offers' are designed to trigger impulse buying."
+    ],
+    "related": [
+      "Consumption",
+      "Demand",
+      "Financial Literacy",
+      "Money Illusion",
+      "Budget"
+    ]
+  },
+  {
+    "id": "asset",
+    "term": "Asset",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Something you own that has financial value or helps generate it. Can be physical (car, house, factory) or intangible (patent, brand reputation). Supports earning potential or long-term growth.",
+    "origin": "The concept of assets in accounting dates to the development of double-entry bookkeeping in 15th century Italy by Luca Pacioli. Assets appear on the left side of a balance sheet.",
+    "examples": [
+      "A house, savings account, car, and investment portfolio are all personal assets.",
+      "A company's assets include cash, inventory, machinery, and intellectual property.",
+      "An asset that generates income (like a rental property) is more valuable than one that doesn't."
+    ],
+    "related": [
+      "Net Wealth",
+      "Liability",
+      "Debt",
+      "Investment",
+      "Portfolio"
+    ]
+  },
+  {
+    "id": "credit",
+    "term": "Credit",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The extension of loans or borrowed money to individuals, companies, or organizations, allowing them to spend beyond their current means with the obligation to repay later, usually with interest.",
+    "origin": "Credit has existed since ancient Mesopotamia. The Latin word 'creditum' means 'something entrusted'. Modern credit systems developed with European banking in the Middle Ages.",
+    "examples": [
+      "A credit card gives you a monthly credit line to spend now and repay later.",
+      "A credit crunch (like 2008) occurs when lending seizes up, causing economic paralysis."
+    ],
+    "related": [
+      "Credit Card",
+      "Debt",
+      "Lending Rates",
+      "Commercial Bank",
+      "Credit Rating Agencies"
+    ]
+  },
+  {
+    "id": "credit-card",
+    "term": "Credit Card",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A financial tool issued by a bank allowing cardholders to borrow funds to pay for goods and services, with the debt repaid later — either in full or with interest charges.",
+    "origin": "The first universal credit card was issued by Diners Club in 1950. Bank credit cards (BankAmericard, later Visa) emerged in 1958. MasterCard followed in 1966.",
+    "examples": [
+      "Buying a €500 laptop with a credit card and repaying the full amount at month-end incurs no interest.",
+      "Paying only the minimum monthly amount on a €1,000 credit card balance at 20% interest can take years to clear."
+    ],
+    "related": [
+      "Debit Card",
+      "Credit",
+      "Debt",
+      "Personal Finance",
+      "Electronic Funds Transfer"
+    ]
+  },
+  {
+    "id": "inflation",
+    "term": "Inflation",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "A general, sustained rise in the price level of goods and services, meaning each unit of currency buys fewer goods over time. Measured by consumer price indices (CPI). Central banks target low, stable inflation around 2%.",
+    "origin": "The term 'inflation' in an economic sense dates to the 1830s. After the gold standard ended in 1971, controlling inflation became central banks' primary mission.",
+    "examples": [
+      "If inflation is 5%, a €100 basket of groceries costs €105 next year.",
+      "The Eurozone experienced over 10% inflation in 2022 due to the energy crisis following Russia's invasion of Ukraine.",
+      "Hyperinflation in Germany in 1923 made money so worthless people used wheelbarrows of cash to buy bread."
+    ],
+    "related": [
+      "Monetary Policy",
+      "Interest",
+      "Fiscal Policy",
+      "Money Illusion",
+      "Recession"
+    ]
+  },
+  {
+    "id": "income-spending-planning",
+    "term": "Income and Spending Planning",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The process of organizing expected income and deciding how to allocate it over a period — covering needs, avoiding overspending, and working toward financial goals. The foundation of good budgeting.",
+    "origin": "Personal budgeting advice became formalized with the rise of personal finance literature in the 20th century. The 50/30/20 rule (needs/wants/savings) was popularized by Senator Elizabeth Warren.",
+    "examples": [
+      "Listing monthly income (€1,500) then allocating: €600 rent, €300 food, €200 transport, €200 savings, €200 leisure.",
+      "Planning in advance for big expenses like holidays or car repairs."
+    ],
+    "related": [
+      "Budget",
+      "Personal Finance",
+      "Saving",
+      "Total Family Expenses",
+      "Disposable Income"
+    ]
+  },
+  {
+    "id": "prepaid-card",
+    "term": "Prepaid Card",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A payment card loaded with a fixed amount of money in advance, functioning like a reloadable gift card. Not linked to a bank account. Useful for budgeting, travel, or those without a bank account.",
+    "origin": "Prepaid cards grew from gift cards in the 1990s. They became important tools for financial inclusion, giving unbanked populations access to electronic payments.",
+    "examples": [
+      "Loading €100 onto a prepaid travel card before a trip abroad limits overspending.",
+      "Parents give teenagers prepaid cards to manage pocket money."
+    ],
+    "related": [
+      "Debit Card",
+      "Credit Card",
+      "Digital Wallet",
+      "Budget",
+      "Personal Finance"
+    ]
+  },
+  {
+    "id": "supply",
+    "term": "Supply",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The amount of a product or service that sellers are prepared to provide in the market, determined by price, production costs, and available resources. Generally, supply increases when prices rise.",
+    "origin": "The formal law of supply was articulated alongside the law of demand by Alfred Marshall (1890). Together, supply and demand form the foundation of market economics.",
+    "examples": [
+      "When oil prices rise, more companies invest in oil exploration — supply increases.",
+      "A drought reduces wheat supply, pushing up bread prices.",
+      "A monopoly can artificially restrict supply to keep prices high."
+    ],
+    "related": [
+      "Demand",
+      "Inflation",
+      "Supply Chain",
+      "Microeconomics",
+      "Market Capitalization"
+    ]
+  },
+  {
+    "id": "personal-finance",
+    "term": "Personal Finance",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The management of an individual's or household's money, including budgeting, saving, investing, borrowing, and planning for future financial goals like retirement and wealth building.",
+    "origin": "Personal finance as a distinct field emerged in the late 20th century with books like 'Rich Dad Poor Dad' (1997) and 'The Total Money Makeover' (2003), along with internet-accessible financial information.",
+    "examples": [
+      "Creating a monthly budget and sticking to it is core personal finance practice.",
+      "Deciding whether to pay off student debt or invest is a personal finance decision."
+    ],
+    "related": [
+      "Budget",
+      "Saving",
+      "Investment",
+      "Financial Literacy",
+      "Financial Responsibility"
+    ]
+  },
+  {
+    "id": "budget",
+    "term": "Budget",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A financial plan outlining expected income and expenses over a specific period (monthly or annually) to allocate resources efficiently, prevent overspending, and support long-term goals.",
+    "origin": "The word 'budget' comes from the Old French 'bougette' (little bag). In government, the formal annual budget became standard in Britain in the 18th century.",
+    "examples": [
+      "A monthly budget: €1,500 income − €600 rent − €300 food − €200 transport = €400 for savings and leisure.",
+      "A government budget shows planned spending on healthcare, education, defense, etc."
+    ],
+    "related": [
+      "Personal Finance",
+      "Saving",
+      "Income and Spending Planning",
+      "Total Family Expenses",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "id": "primary-budget",
+    "term": "Primary Budget Surplus or Deficit",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The difference between a government's total revenue and its expenditure excluding interest payments on past debt. A surplus means the government currently lives within its means; a deficit means it spends more than it earns.",
+    "origin": "The concept became critical in sovereign debt analysis during the Latin American debt crises of the 1980s, and was central to Greece's bailout negotiations with the EU/IMF from 2010.",
+    "examples": [
+      "Greece was required to achieve a primary surplus as a condition of its EU/IMF bailout.",
+      "A country can have a primary surplus but still have a growing total deficit if interest payments are very large."
+    ],
+    "related": [
+      "Fiscal Policy",
+      "National Debt",
+      "GDP",
+      "IMF",
+      "Recession"
+    ]
+  },
+  {
+    "id": "liquidity",
+    "term": "Liquidity of Investment",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "The ease and speed with which an investment can be converted to cash without significant loss of value. Highly liquid investments (listed stocks) can be sold instantly; illiquid ones (real estate) may take months.",
+    "origin": "Liquidity became a critical concept after the Great Depression (1929), when markets froze and investors couldn't sell assets. The 2008 financial crisis renewed its importance.",
+    "examples": [
+      "Shares in a major company listed on the NYSE can be sold in seconds — highly liquid.",
+      "A house may take months to sell at a fair price — illiquid investment.",
+      "Cash in a bank account is the most liquid asset of all."
+    ],
+    "related": [
+      "Investment",
+      "Portfolio",
+      "Risk",
+      "Money Markets",
+      "Asset"
+    ]
+  },
+  {
+    "id": "robotics",
+    "term": "Robotics",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "The engineering discipline focused on designing, building, and operating robots — automatically operated machines that perform tasks, used extensively in industrial manufacturing and increasingly in services.",
+    "origin": "The word 'robot' was coined by Czech playwright Karel Čapek in 1920. Industrial robots became widespread in car manufacturing in the 1960s-70s, pioneered by General Motors.",
+    "examples": [
+      "Car factories use robotic arms for welding and painting with precision humans cannot match.",
+      "Warehouse robots at Amazon fulfill orders at superhuman speed.",
+      "Medical robots assist surgeons in minimally invasive operations."
+    ],
+    "related": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Industrial Revolution",
+      "Digitalization"
+    ]
+  },
+  {
+    "id": "robo-advisors",
+    "term": "Robo-advisors",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Automated digital platforms that manage investment portfolios using algorithms, creating and executing long-term investment plans based on a user's goals, time horizon, and risk tolerance — without human financial advisors.",
+    "origin": "The first robo-advisor, Betterment, launched in 2010. The industry grew rapidly after 2015, with major firms like Vanguard and Schwab launching their own platforms.",
+    "examples": [
+      "A robo-advisor asks you 10 questions about your goals, then automatically invests in a diversified portfolio.",
+      "They automatically rebalance your portfolio when market movements shift your asset allocation.",
+      "Robo-advisors typically charge 0.25% annually — far less than human advisors (1%+)."
+    ],
+    "related": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Portfolio",
+      "Dollar-Cost Averaging",
+      "Diversification"
+    ]
+  },
+  {
+    "id": "stagnation",
+    "term": "Stagnation",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "A prolonged period of little or no economic growth, typically accompanied by high unemployment and low consumer spending. Different from recession — the economy doesn't shrink, it just barely grows.",
+    "origin": "Economic stagnation became a major concern during Japan's 'Lost Decade' of the 1990s. The combination of stagnation and inflation ('stagflation') troubled Western economies in the 1970s.",
+    "examples": [
+      "Japan experienced stagnation for most of the 1990s-2000s despite being a wealthy country.",
+      "High youth unemployment combined with near-zero GDP growth in southern Europe in the 2010s was called 'secular stagnation'."
+    ],
+    "related": [
+      "GDP",
+      "Recession",
+      "Growth",
+      "Unemployment",
+      "Business Cycles"
+    ]
+  },
+  {
+    "id": "mortgage",
+    "term": "Mortgage",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "A loan specifically used to purchase or maintain a home or property, where the property itself serves as collateral. Repaid in monthly installments of principal and interest over many years.",
+    "origin": "The word 'mortgage' comes from Old French meaning 'dead pledge' — the pledge dies when the debt is paid or the property is forfeited. Modern mortgages were standardized in the US in the 1930s.",
+    "examples": [
+      "A couple takes a €200,000 mortgage at 3.5% interest over 25 years to buy their first home.",
+      "If you stop making mortgage payments, the bank can repossess your home.",
+      "The 2008 financial crisis began with a collapse of the US subprime mortgage market."
+    ],
+    "related": [
+      "Lending Rates",
+      "Interest",
+      "Long-term Loans",
+      "Commercial Bank",
+      "Debt"
+    ]
+  },
+  {
+    "id": "herd-behavior",
+    "term": "Herd Behavior",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The tendency of individuals to mimic the actions of a larger group rather than rely on their own analysis, assuming the crowd has already done the research. Can cause market bubbles, crashes, and sudden price shifts.",
+    "origin": "Herd behavior in markets was observed by Charles Mackay in 'Extraordinary Popular Delusions and the Madness of Crowds' (1841). It became core to behavioral economics in the 1970s-80s.",
+    "examples": [
+      "Investors rush to buy a stock just because everyone else is buying it, inflating a bubble.",
+      "Bank runs are extreme herd behavior — everyone withdraws because they fear everyone else will.",
+      "Cryptocurrency price spikes are often driven by herd behavior and social media FOMO."
+    ],
+    "related": [
+      "Bubble",
+      "Market Capitalization",
+      "Financial Literacy",
+      "Impulse Buying",
+      "Risk"
+    ]
+  },
+  {
+    "id": "exchange-rate",
+    "term": "Exchange Rate",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "The value of one country's currency compared to another's — how much of one currency you need to purchase another. Changes daily based on supply and demand, economic conditions, and government policies.",
+    "origin": "Floating exchange rates became the global norm after the collapse of the Bretton Woods fixed-rate system in 1971. Before that, most currencies were pegged to the US dollar.",
+    "examples": [
+      "If 1 EUR = 1.08 USD, you get $108 for every €100 you exchange.",
+      "A weak euro makes Greek exports cheaper for foreign buyers but makes imports more expensive."
+    ],
+    "related": [
+      "Currency",
+      "Monetary Policy",
+      "Trade Deficit",
+      "Imports",
+      "Exports"
+    ]
+  },
+  {
+    "id": "dollar-cost-averaging",
+    "term": "Dollar-Cost Averaging",
+    "abbreviation": "DCA",
+    "category": "Investing",
+    "definition": "An investment strategy where a fixed amount of money is invested at regular intervals regardless of price, resulting in buying more shares when prices are low and fewer when high — reducing average cost over time.",
+    "origin": "The strategy was formally described by Benjamin Graham in 'The Intelligent Investor' (1949). It counters behavioral biases by removing the temptation to time the market.",
+    "examples": [
+      "Investing €200 every month in an index fund, regardless of market conditions.",
+      "In January the price is €10/share → buy 20 shares. In February it drops to €8 → buy 25 shares. Average cost is lower than the average price.",
+      "Pension contributions are automatic DCA — you invest the same amount each month."
+    ],
+    "related": [
+      "Investment",
+      "Risk",
+      "Compound Interest",
+      "Robo-advisors",
+      "Portfolio"
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "term": "Artificial Intelligence",
+    "abbreviation": "AI",
+    "category": "Digital & Technology",
+    "definition": "The simulation of human intelligence by computer systems, enabling machines to learn from data, recognize patterns, make decisions, and perform tasks that normally require human intelligence.",
+    "origin": "AI was formally founded as a field at the Dartmouth Conference in 1956 by John McCarthy and Marvin Minsky. The modern era accelerated with deep learning around 2012 and ChatGPT in 2022.",
+    "examples": [
+      "AI powers voice assistants (Siri, Alexa), recommendation algorithms, and autonomous vehicles.",
+      "AI-based robo-advisors automate investment decisions without human emotions.",
+      "Machine learning algorithms detect credit card fraud in milliseconds."
+    ],
+    "related": [
+      "Machine Learning",
+      "Robo-advisors",
+      "Digitalization",
+      "Data Analytics",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "interest",
+    "term": "Interest",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The cost of borrowing money (for debtors) or the return on lending/saving money (for creditors). Central banks use interest rates as the primary lever to control inflation and stimulate or cool economic activity.",
+    "origin": "Interest on loans has existed since at least 3000 BC in ancient Mesopotamia. Modern central bank interest rate policy began with the Bank of England in 1694.",
+    "examples": [
+      "The ECB sets its key interest rate; all eurozone bank rates are influenced by it.",
+      "Raising interest rates makes borrowing more expensive, reducing spending and cooling inflation.",
+      "Real interest rate = nominal rate − inflation. If rate is 3% but inflation is 5%, the real rate is −2%."
+    ],
+    "related": [
+      "Lending Rates",
+      "Savings Deposit Rate",
+      "Monetary Policy",
+      "Compound Interest",
+      "Inflation"
+    ]
+  },
+  {
+    "id": "production-sectors",
+    "term": "Production Sectors",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The three broad categories of economic activity: Primary (extracting raw materials — farming, fishing, mining), Secondary (manufacturing into products), and Tertiary (providing services — trade, healthcare, finance).",
+    "origin": "The three-sector model was developed by economists Colin Clark and Jean Fourastié in the 1940s to describe how economies shift from agriculture to industry to services as they develop.",
+    "examples": [
+      "A miner extracting copper (primary) → a factory making copper wire (secondary) → a bank financing the deal (tertiary).",
+      "Greece's economy is dominated by the tertiary sector (tourism, shipping, services).",
+      "Developed economies typically have 70%+ of employment in the tertiary sector."
+    ],
+    "related": [
+      "GDP",
+      "Industrial Revolution",
+      "Supply Chain",
+      "Macroeconomics"
+    ]
+  },
+  {
+    "id": "bank-of-greece",
+    "term": "Bank of Greece",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The national central bank of Greece and an integral part of the Eurosystem. Established in 1927, it issued the drachma until Greece adopted the euro. Since 2014, it also serves as Greece's national banking supervisor.",
+    "origin": "Established in 1927, it replaced the National Bank of Greece in the central banking function and was a key part of Greece's interwar economic stabilization.",
+    "examples": [
+      "The Bank of Greece implements ECB monetary policy at the national level.",
+      "It publishes euro coins and banknotes and provides them to Greek commercial banks.",
+      "Its stock is listed on the Athens Stock Exchange — unusual for a central bank."
+    ],
+    "related": [
+      "European Central Bank",
+      "Euro",
+      "Eurozone",
+      "Commercial Bank",
+      "Athens Stock Exchange"
+    ]
+  },
+  {
+    "id": "environmental-rights",
+    "term": "Environmental Rights Defence",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The advocacy and protection of the right to a clean, healthy environment through individuals, organizations, and policy-making that promotes green energy, sustainability, and conservation.",
+    "origin": "Environmental rights emerged as a legal concept in the 1970s following landmark events like the first Earth Day (1970) and the UN Stockholm Conference (1972).",
+    "examples": [
+      "Recycling, energy conservation, and using eco-friendly products are individual contributions.",
+      "Green political parties advocate for stricter environmental regulations.",
+      "The EU Green Deal represents a large-scale commitment to environmental protection."
+    ],
+    "related": [
+      "Climate Change",
+      "ESG",
+      "Overconsumption",
+      "Wellbeing"
+    ]
+  },
+  {
+    "id": "overconsumption",
+    "term": "Overconsumption",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "Consuming resources at a rate that exceeds sustainability, driven by the belief that more possessions equal a better life. Leads to depletion of natural resources and significant environmental damage.",
+    "origin": "The concept gained prominence with the environmental movement of the 1970s. Economists warned about treating the Earth as a limitless resource.",
+    "examples": [
+      "The average American generates 4.5 pounds of trash per day — far above the global average.",
+      "Fast fashion produces enormous waste, with many garments worn only a few times before discarding.",
+      "'Black Friday' is often cited as a symbol of consumer overconsumption."
+    ],
+    "related": [
+      "Climate Change",
+      "ESG",
+      "Environmental Rights Defence",
+      "Consumption",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "liability",
+    "term": "Liability",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A debt or financial obligation owed to another individual, bank, or institution that must be repaid. The opposite of an asset. Appears on the right side of a balance sheet.",
+    "origin": "The concept of liability in accounting dates to double-entry bookkeeping (15th century Italy). Legal liability frameworks developed alongside commercial law in the 17th-18th centuries.",
+    "examples": [
+      "A mortgage on your house is a liability.",
+      "Credit card debt is a short-term liability.",
+      "Net Wealth = Assets − Liabilities."
+    ],
+    "related": [
+      "Debt",
+      "Asset",
+      "Net Wealth",
+      "Mortgage",
+      "Credit Card"
+    ]
+  },
+  {
+    "id": "recession",
+    "term": "Recession",
+    "abbreviation": null,
+    "category": "Macroeconomics",
+    "definition": "A period of negative economic growth, typically defined as two consecutive quarters of declining GDP. Characterized by falling production, consumption, and investment, combined with rising unemployment.",
+    "origin": "The technical definition (two consecutive quarters of negative GDP) was popularized in the US in the 1970s. The NBER uses a broader definition based on a significant decline across multiple economic indicators.",
+    "examples": [
+      "Greece experienced one of the worst recessions in modern history during 2009-2013, with GDP falling ~27%.",
+      "The COVID-19 pandemic triggered the sharpest global recession since WWII in 2020.",
+      "During a recession, unemployment rises, businesses fail, and consumer confidence collapses."
+    ],
+    "related": [
+      "GDP",
+      "Growth",
+      "Business Cycles",
+      "Unemployment",
+      "Fiscal Policy"
+    ]
+  },
+  {
+    "id": "philanthropy",
+    "term": "Philanthropy",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "Acts that support human welfare by helping those in need — including donating money or goods, volunteering, or funding charitable causes and organizations.",
+    "origin": "The word comes from Greek: 'philos' (loving) + 'anthropos' (human). Andrew Carnegie and John D. Rockefeller shaped modern philanthropy in the late 19th century by donating vast wealth to public causes.",
+    "examples": [
+      "Bill Gates and Warren Buffett pledged to donate most of their wealth through the Giving Pledge.",
+      "During the Greek financial crisis, food banks and charitable organizations provided essential support."
+    ],
+    "related": [
+      "Charitable Gift",
+      "Wellbeing",
+      "ESG",
+      "Standard of Living"
+    ]
+  },
+  {
+    "id": "charitable-gift",
+    "term": "Charitable Gift",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "A donation given to a non-profit organization or charitable association to support a goal or help a vulnerable group, without expectation of financial return.",
+    "origin": "Organized charity dates to religious institutions in antiquity. The legal framework for tax-deductible charitable donations was formalized in the US Tax Code of 1917.",
+    "examples": [
+      "Donating clothes to a refugee organization.",
+      "A company donates 1% of profits to environmental causes.",
+      "Online crowdfunding platforms enable micro-donations to specific causes globally."
+    ],
+    "related": [
+      "Philanthropy",
+      "ESG",
+      "Wellbeing",
+      "Tip"
+    ]
+  },
+  {
+    "id": "tip",
+    "term": "Tip",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "An extra sum of money given voluntarily to someone providing a service, as an expression of gratitude. Common in restaurants, cafés, hotels, and taxis.",
+    "origin": "The origin is debated. Tips became an institution in the US after the Civil War. In the US, tipping is culturally expected and often forms a major part of service workers' income.",
+    "examples": [
+      "Leaving a 10-15% tip at a restaurant for good service.",
+      "In Japan, tipping is considered rude — the opposite of US culture.",
+      "In the US, service workers in many states earn below minimum wage and rely on tips to survive."
+    ],
+    "related": [
+      "Wage",
+      "Personal Finance",
+      "Charitable Gift"
+    ]
+  },
+  {
+    "id": "bubble",
+    "term": "Bubble",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "A sharp, unsustainable rise in an asset's price far beyond its fundamental value, driven by speculation, herd behavior, and excess liquidity. When the bubble bursts, prices collapse and economic damage spreads.",
+    "origin": "The term originates from the South Sea Bubble of 1720. The tulip mania (1634-1638) is the earliest documented speculative bubble.",
+    "examples": [
+      "The dot-com bubble (2000): internet company valuations soared then crashed 78%.",
+      "The US housing bubble (2008): home prices rose unrealistically until the market collapsed.",
+      "The Athens Stock Exchange bubble (1999): the Greek market rose 145% then fell 85%."
+    ],
+    "related": [
+      "Herd Behavior",
+      "Market Capitalization",
+      "Shares",
+      "Risk",
+      "Recession"
+    ]
+  },
+  {
+    "id": "portfolio",
+    "term": "Portfolio",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "A collection of financial investments held by an individual or institution — stocks, bonds, real estate, cash, or cryptocurrencies — managed together to achieve financial goals while balancing risk and return.",
+    "origin": "The modern scientific approach to portfolios was established by Harry Markowitz's Modern Portfolio Theory (1952), showing mathematically how diversification reduces risk.",
+    "examples": [
+      "A young investor's portfolio: 70% stocks, 20% bonds, 10% cash.",
+      "A retiree shifts portfolio toward bonds and income-generating assets for stability.",
+      "Robo-advisors automatically maintain your target portfolio allocation."
+    ],
+    "related": [
+      "Diversification",
+      "Asset",
+      "ROI",
+      "Shares",
+      "Robo-advisors"
+    ]
+  },
+  {
+    "id": "debt-instruments",
+    "term": "Debt Instruments",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Financial instruments representing a loan from an investor to a borrower. Include bonds, treasury bills, commercial paper, and mortgages. Offer predictable income and are less volatile than stocks.",
+    "origin": "Government bonds as debt instruments date to the Italian city-states of the 13th century. The modern bond market grew massively with WWI and WWII government borrowing.",
+    "examples": [
+      "A Greek government bond pays 3% annual interest to investors who lend money to the state.",
+      "Treasury bills are short-term debt instruments sold at a discount and maturing at face value."
+    ],
+    "related": [
+      "National Debt",
+      "Credit Rating Agencies",
+      "Capital Markets",
+      "Interest"
+    ]
+  },
+  {
+    "id": "debt",
+    "term": "Debt",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Money borrowed from another party (bank, company, or individual) that must be repaid later, typically with interest. Examples include student loans, car loans, credit card balances, and mortgages.",
+    "origin": "Debt is one of the oldest human institutions, documented in ancient Mesopotamia around 3000 BC. David Graeber's 'Debt: The First 5000 Years' (2011) traces its cultural and economic history.",
+    "examples": [
+      "A student takes a €15,000 loan to pay university fees — this is debt.",
+      "National debt is the total money a government owes from years of deficit spending.",
+      "High consumer debt can be a warning sign of an impending recession."
+    ],
+    "related": [
+      "Liability",
+      "Credit",
+      "Lending Rates",
+      "Mortgage",
+      "National Debt"
+    ]
+  },
+  {
+    "id": "debit-card",
+    "term": "Debit Card",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "A payment card directly linked to your bank account. When used, money is taken immediately from your account. Unlike a credit card, you can only spend what you already have.",
+    "origin": "The first debit card was introduced by the Bank of Delaware in 1966. They became widespread in the 1980s-90s as ATM networks expanded, largely replacing personal checks.",
+    "examples": [
+      "Paying for groceries using a debit card immediately deducts the amount from your account.",
+      "Debit cards cannot incur debt — you can only spend existing funds."
+    ],
+    "related": [
+      "Credit Card",
+      "ATM",
+      "Commercial Bank",
+      "Electronic Funds Transfer",
+      "Digital Wallet"
+    ]
+  },
+  {
+    "id": "money-markets",
+    "term": "Money Markets",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The market for short-term borrowing and lending (generally less than one year). Banks use money markets to finance themselves daily. When money markets freeze (as in 2008), banking crises typically follow.",
+    "origin": "Money markets developed in the 19th century in London as banks needed mechanisms to lend overnight reserves to each other.",
+    "examples": [
+      "Banks lend their overnight excess reserves to each other through the money market.",
+      "Money market funds are popular low-risk investments for individuals."
+    ],
+    "related": [
+      "Interest",
+      "Lending Rates",
+      "Liquidity of Investment",
+      "Commercial Bank",
+      "Monetary Policy"
+    ]
+  },
+  {
+    "id": "stock-market-indices",
+    "term": "Stock Market Indices",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "Tools that measure the collective performance of a selected group of stocks, representing a segment of the market. When an index rises, the underlying companies are generally performing well.",
+    "origin": "The Dow Jones Industrial Average (1896) is the oldest and most famous stock index, created by Charles Dow to give investors a simple snapshot of overall market performance.",
+    "examples": [
+      "The S&P 500 tracks the 500 largest US companies.",
+      "The FTSE 100 tracks the 100 largest UK companies.",
+      "A fall in the Athens Stock Exchange General Index reflects poor performance of Greek listed companies."
+    ],
+    "related": [
+      "Stock Market",
+      "Shares",
+      "Market Capitalization",
+      "Athens Stock Exchange",
+      "NYSE"
+    ]
+  },
+  {
+    "id": "stock-market",
+    "term": "Stock Market",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "An organized marketplace where financial assets (shares, bonds, commodities) are bought and sold, with prices determined by supply and demand. Provides immediate liquidity for investors.",
+    "origin": "The Amsterdam Stock Exchange (1602) is considered the world's first official stock market. The New York Stock Exchange was founded in 1792 under a buttonwood tree on Wall Street.",
+    "examples": [
+      "When optimism prevails, buyers dominate and prices rise — a 'bull market'.",
+      "When pessimism takes over, sellers dominate and prices fall — a 'bear market'.",
+      "The NYSE, NASDAQ, Shanghai Stock Exchange, and Euronext are among the world's largest."
+    ],
+    "related": [
+      "Shares",
+      "Stock Market Indices",
+      "Capital Markets",
+      "Athens Stock Exchange",
+      "NYSE"
+    ]
+  },
+  {
+    "id": "athens-stock-exchange",
+    "term": "Athens Stock Exchange",
+    "abbreviation": null,
+    "category": "Banking & Institutions",
+    "definition": "The main stock exchange of Greece, established in 1876. Now at 110 Athinon Avenue. Hosts major Greek companies including OTE, Hellenic Petroleum, Alpha Bank, Eurobank, Piraeus Bank, and OPAP.",
+    "origin": "Founded in 1876, modeled on European exchanges. It experienced massive bubble growth in the late 1990s and suffered one of history's worst crashes in 2000-2001.",
+    "examples": [
+      "Alpha Bank, National Bank of Greece, and Piraeus Bank are among the most traded stocks on the ASE.",
+      "The ASE General Index fell over 85% between 1999 and 2003, wiping out thousands of small investors."
+    ],
+    "related": [
+      "Stock Market",
+      "Shares",
+      "Bank of Greece",
+      "Capital Market Commission",
+      "Bubble"
+    ]
+  },
+  {
+    "id": "nyse",
+    "term": "New York Stock Exchange",
+    "abbreviation": "NYSE",
+    "category": "Banking & Institutions",
+    "definition": "The largest and most significant stock exchange in the world, founded in 1792 and located on Wall Street, New York. Lists global giants including Microsoft, Amazon, Apple, Alphabet, and Tesla.",
+    "origin": "Founded on May 17, 1792, when 24 stockbrokers signed the Buttonwood Agreement under a buttonwood tree at 68 Wall Street. It moved to its current building at 11 Wall Street in 1903.",
+    "examples": [
+      "The NYSE lists over 2,400 companies with a combined market cap of over $25 trillion.",
+      "An 'opening bell' ceremony marks the start of each trading day.",
+      "The 'Big Board' trades shares in some of the world's most valuable companies."
+    ],
+    "related": [
+      "Stock Market",
+      "Stock Market Indices",
+      "Shares",
+      "Capital Markets",
+      "Market Capitalization"
+    ]
+  },
+  {
+    "id": "financial-literacy",
+    "term": "Financial Literacy",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "The ability to understand and effectively use financial skills, including personal finance management, budgeting, saving, and investing. A combination of knowledge, skills, and behavior for sound financial decision-making.",
+    "origin": "Financial literacy became a formal educational goal in the 1990s-2000s after studies showed widespread ignorance about basic financial concepts. The OECD launched international financial literacy programs in 2003.",
+    "examples": [
+      "Understanding the difference between an asset and a liability is financial literacy.",
+      "Knowing how compound interest works prevents people from falling into debt traps."
+    ],
+    "related": [
+      "Personal Finance",
+      "Financial Responsibility",
+      "Budget",
+      "Investment",
+      "Money Illusion"
+    ]
+  },
+  {
+    "id": "financial-responsibility",
+    "term": "Financial Responsibility",
+    "abbreviation": null,
+    "category": "Personal Finance",
+    "definition": "Managing your money wisely to avoid debts, achieve financial goals, and maintain stability. Involves living within your means, saving regularly, and making informed financial decisions.",
+    "origin": "The concept is central to personal finance education movements that grew in the late 20th century, in response to rising personal debt levels and declining savings rates.",
+    "examples": [
+      "Paying credit card bills in full each month avoids interest charges.",
+      "Setting aside 10% of income for savings before spending on discretionary items.",
+      "Having an emergency fund so unexpected expenses don't require taking on debt."
+    ],
+    "related": [
+      "Financial Literacy",
+      "Personal Finance",
+      "Budget",
+      "Saving",
+      "Debt"
+    ]
+  },
+  {
+    "id": "time-value-of-money",
+    "term": "Time Value of Money",
+    "abbreviation": "TVM",
+    "category": "Economics & Theory",
+    "definition": "The principle that money available now is worth more than the same amount in the future, because present money can be invested to earn returns. Underpins nearly all financial valuation and investment decisions.",
+    "origin": "The mathematical concept was formalized by Renaissance merchants. It became central to modern finance through Irving Fisher's 'The Theory of Interest' (1930).",
+    "examples": [
+      "€1,000 today invested at 5% becomes €1,050 next year — so €1,000 today is worth more than €1,000 next year.",
+      "Businesses use TVM to decide whether an investment's future returns justify today's cost."
+    ],
+    "related": [
+      "Compound Interest",
+      "Interest",
+      "Investment",
+      "Financial Literacy",
+      "Saving"
+    ]
+  },
+  {
+    "id": "money-illusion",
+    "term": "Money Illusion",
+    "abbreviation": null,
+    "category": "Economics & Theory",
+    "definition": "The cognitive bias where people focus on the nominal (face) value of money rather than its real purchasing power, leading to misjudgments of financial situations when inflation is present.",
+    "origin": "The term was coined by economist Irving Fisher in 1928. It was later incorporated into behavioral economics by Nobel laureates Daniel Kahneman and Amos Tversky.",
+    "examples": [
+      "Getting a 3% salary raise while inflation is 4% means you're actually poorer — but it feels like a win.",
+      "Workers resist nominal wage cuts during deflation, focusing on the number rather than purchasing power."
+    ],
+    "related": [
+      "Inflation",
+      "Financial Literacy",
+      "Time Value of Money",
+      "Impulse Buying"
+    ]
+  },
+  {
+    "id": "digital-assets",
+    "term": "Digital Assets",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "Any valuable item that exists in digital form and can be owned, traded, or utilized — including cryptocurrencies, NFTs, stablecoins, and digital representations of real-world assets using blockchain technology.",
+    "origin": "Digital assets emerged with the internet in the 1990s (digital music, files) and evolved with blockchain technology after 2009. The NFT boom of 2021 brought digital assets into mainstream awareness.",
+    "examples": [
+      "Bitcoin and Ethereum are digital assets.",
+      "An NFT of a digital artwork can sell for millions — ownership verified on the blockchain.",
+      "Stablecoins like USDC are digital assets pegged to the US dollar to avoid volatility."
+    ],
+    "related": [
+      "Cryptocurrency",
+      "Bitcoin",
+      "Digital Wallet",
+      "Digital Money"
+    ]
+  },
+  {
+    "id": "digital-wallet",
+    "term": "Digital Wallet",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "A software application that securely stores payment details and enables electronic transactions via smartphones or computers. Uses tokenization (replacing card numbers with one-time codes) for security.",
+    "origin": "Digital wallets emerged in the late 1990s with PayPal (1998). Mobile wallets (Apple Pay, Google Pay) launched in 2014-2015, using NFC technology for contactless payments.",
+    "examples": [
+      "Using Apple Pay to tap your phone at a checkout instead of a physical card.",
+      "Google Pay stores multiple cards and lets you choose which to pay with.",
+      "Cryptocurrency wallets store private keys to your digital assets on the blockchain."
+    ],
+    "related": [
+      "Debit Card",
+      "Credit Card",
+      "Cryptocurrency",
+      "Digital Money",
+      "Electronic Funds Transfer"
+    ]
+  },
+  {
+    "id": "digital-money",
+    "term": "Digital Money",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "Any form of money that exists only in digital form with no physical counterpart — including cryptocurrencies (decentralized) and central bank digital currencies (CBDCs) being developed by governments.",
+    "origin": "The concept dates to early internet payment systems. Bitcoin (2009) was the first decentralized digital money. China's digital yuan is among the first government-issued CBDCs to launch at scale.",
+    "examples": [
+      "Bitcoin is digital money not controlled by any central bank.",
+      "China has been piloting its digital yuan as government-issued digital money.",
+      "Smart contracts enable digital money to automatically execute when certain conditions are met."
+    ],
+    "related": [
+      "Cryptocurrency",
+      "Bitcoin",
+      "Digital Wallet",
+      "Digital Assets",
+      "Electronic Funds Transfer"
+    ]
+  },
+  {
+    "id": "digital-nomads",
+    "term": "Digital Nomads",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "People who use technology to work remotely while traveling and living in different locations, not tied to a physical office. Work across fields from software to journalism using video conferencing and project management tools.",
+    "origin": "The term was coined by Tsugio Makimoto and David Manners in their 1997 book 'Digital Nomad'. The lifestyle exploded after COVID-19 normalized remote work globally from 2020.",
+    "examples": [
+      "A software developer working from Bali while employed by a US company is a digital nomad.",
+      "Many countries including Greece created 'digital nomad visas' to attract remote workers."
+    ],
+    "related": [
+      "Digitalization",
+      "Wage",
+      "Personal Finance",
+      "IoT"
+    ]
+  },
+  {
+    "id": "digitalization",
+    "term": "Digitalization",
+    "abbreviation": null,
+    "category": "Digital & Technology",
+    "definition": "The transformation of information, procedures, and services into digital form through computers and the internet — fundamentally changing how people live, work, shop, and communicate.",
+    "origin": "Digitalization accelerated with the commercialization of the internet in the 1990s and smartphones in the 2000s. The COVID-19 pandemic dramatically accelerated digital adoption across all sectors.",
+    "examples": [
+      "Online shopping, digital banking, and streaming are all results of digitalization.",
+      "Automation through digitalization can eliminate certain jobs while creating new ones.",
+      "Greece's government digitalized many services through the gov.gr platform."
+    ],
+    "related": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "IoT",
+      "Digital Money",
+      "Disruptions"
+    ]
+  },
+  {
+    "id": "market-capitalization",
+    "term": "Market Capitalization",
+    "abbreviation": null,
+    "category": "Investing",
+    "definition": "The total market value of a publicly traded company, calculated as: Share Price × Total Number of Shares Outstanding. Changes continuously as share prices fluctuate. Used to classify companies as small-cap, mid-cap, or large-cap.",
+    "origin": "Market capitalization became a standard financial metric in the 20th century as stock markets grew. The terms 'large-cap', 'mid-cap', and 'small-cap' were standardized by mutual fund industry conventions.",
+    "examples": [
+      "If a company has 10 million shares trading at €50 each, its market cap is €500 million.",
+      "Apple became the first US company to reach a $1 trillion market cap in 2018.",
+      "Large-cap companies are generally more stable but offer lower growth potential than small-caps."
+    ],
+    "related": [
+      "Shares",
+      "Stock Market",
+      "Investment",
+      "Portfolio",
+      "Capital Markets"
+    ]
+  }
+]
